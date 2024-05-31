@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminbabariya48&label=Profile%20views&color=0e75b6&style=flat" alt="jasminbabariya48" /> </p>
 
-- 🔭 I’m currently working on Unified Mentor and Tech. **AtliQ Hospitality Analysis**
+- 🔭 I’m currently working on Semantic Technology **NPK Model Using Advance Ml and Dl Through**
 
 - 👯 I’m looking to collaborate on CodSoft [IMDb Movie Rating](https://drive.google.com/drive/folders/115xmX0FNiXyrBopVnqsfzlJSKAOea9Aa?usp=sharing)
 
