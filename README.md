@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminbabariya48&label=Profile%20views&color=0e75b6&style=flat" alt="jasminbabariya48" /> </p>
 
-- 🔭 I’m currently working at Semantic Technology on project of**Hybrid AI Model for Oncology Drug Screening**
+- 🔭 I’m currently working at Semantic Technology on project of **Hybrid AI Model for Oncology Drug Screening**
 
 - 👨‍💻 All of my projects are available at [https://jasminbabariya04.my.canva.site/](https://jasminbabariya04.my.canva.site/)
 
 - 📫 How to reach me **jasminbabariya04@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1Jaiqg9-tM95crTLYxDMML8pvf7fUCLuJ/view?usp=drive_link]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iNMLD5qiQDKQHxOYiZkXNKXS1jCIMnvm/view?usp=drive_link]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jasmin-babariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmin-babariya" height="30" width="40" /></a>
