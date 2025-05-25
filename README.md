@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jasmin Babariya</h1>
-<h3 align="center">Data scientist/ Data Analyst</h3>
+<h3 align="center">Data scientist</h3>
 
 <img align="right" alt="Analysis" width="400" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminbabariya48&label=Profile%20views&color=0e75b6&style=flat" alt="jasminbabariya48" /> </p>
 
 - 🔭 I’m currently working on Semantic Technology **NPK Model Using Advance Ml and Dl Through**
-
-- 👯 I’m looking to collaborate on CodSoft [IMDb Movie Rating](https://drive.google.com/drive/folders/115xmX0FNiXyrBopVnqsfzlJSKAOea9Aa?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [https://jasminbabariya04.my.canva.site/](https://jasminbabariya04.my.canva.site/)
 
