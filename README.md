@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- 🌊 DYNAMIC GRADIENT HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,40,100&height=240&section=header&text=Jasmin%20Babariya&fontSize=52&fontAlignY=38&fontAlign=50&desc=Data%20Scientist%20%7C%20Enterprise%20AI%20%26%20Agentic%20Systems%20Engineer&descAlignY=58&descAlign=50&descSize=20&animation=fadeIn" width="100%" />
+# ⚡ Jasmin Babariya ⚡
+### Data Scientist & Enterprise AI Systems Architect
 
 <!-- ⚡ ANIMATED TYPING SUBHEADER -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Architecting+Mission-Critical+Enterprise+AI+Copilots;Building+Autonomous+Agentic+Workflows+%26+LangGraph;Engineering+Deterministic+Safety+%26+100%25+RBAC+Defense;High-Throughput+LLM+Document+Extraction+Pipelines" alt="Typing SVG" />
-</a>
-
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Architecting+Mission-Critical+Enterprise+AI;Autonomous+Agentic+Workflows+%26+LangGraph;Deterministic+Safety+%26+100%25+RBAC+Defense;High-Throughput+LLM+Document+Extraction" alt="Typing SVG" />
+</p>
 
 <!-- 🌐 SOCIAL CONNECT DOCK -->
 <p align="center">
@@ -27,14 +25,17 @@
   <img src="https://komarev.com/ghpvc/?username=Jasminbabariya48&label=PROFILE%20VIEWS&color=00F5D4&style=for-the-badge" />
 </p>
 
-</div>
+<!-- 📊 QUICK HIGHLIGHTS METRICS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Enterprise_Tests-180+_Passing-success?style=flat-square&logo=pytest&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/RBAC_Defense-100%25_Mandate-blue?style=flat-square&logo=auth0&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI_Benchmark-90_Vectors-brightgreen?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Risk_Triage-<_48_Hours-orange?style=flat-square" />
+</p>
 
----
-
-### 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jasminbabariya48&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%" />
 </div>
 
 ---
@@ -168,21 +169,14 @@ identity:
 
 ---
 
-### 📊 Real-Time GitHub Telemetry & Velocity
+### 📊 Real-Time Activity & Consistency Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jasminbabariya48&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&icon_color=00F5D4&text_color=A9B1D6&bg_color=0D1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasminbabariya48&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=A9B1D6&bg_color=0D1117" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasminbabariya48&theme=tokyonight&hide_border=true&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&background=0D1117" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=Jasminbabariya48&theme=tokyonight&hide_border=true&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&background=0D1117" width="98%" />
 </div>
 
 ---
 
-<!-- 🌊 DYNAMIC GRADIENT FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,40,100&height=120&section=footer" width="100%" />
   <sub>Designed with precision by Jasmin Babariya • Enterprise AI & Data Science</sub>
 </div>
