@@ -1,131 +1,188 @@
-<!DOCTYPE html>
-<html lang="en" class="scroll-smooth">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jasmin Babariya | Data Scientist & Enterprise AI Engineer</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <style>
-    .glow-cyan { text-shadow: 0 0 20px rgba(6, 182, 212, 0.5); }
-    .glass {
-      background: rgba(17, 24, 39, 0.7);
-      backdrop-filter: blur(12px);
-      border: 1px solid rgba(255, 255, 255, 0.08);
-    }
-  </style>
-</head>
-<body class="bg-gray-950 text-gray-100 font-sans antialiased selection:bg-cyan-500 selection:text-black">
+<div align="center">
 
-  <!-- Navbar -->
-  <nav class="fixed top-0 w-full z-50 glass border-b border-gray-800">
-    <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
-      <span class="text-xl font-bold tracking-tight text-white flex items-center gap-2">
-        <span class="text-cyan-400">&lt;</span>Jasmin Babariya<span class="text-cyan-400">/&gt;</span>
-      </span>
-      <div class="space-x-8 text-sm font-medium text-gray-300">
-        <a href="#about" class="hover:text-cyan-400 transition">About</a>
-        <a href="#projects" class="hover:text-cyan-400 transition">Projects</a>
-        <a href="#skills" class="hover:text-cyan-400 transition">Skills</a>
-        <a href="#contact" class="px-4 py-2 bg-cyan-500 text-black font-semibold rounded-lg hover:bg-cyan-400 transition">Contact</a>
-      </div>
-    </div>
-  </nav>
+<!-- 🌊 DYNAMIC GRADIENT HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,40,100&height=240&section=header&text=Jasmin%20Babariya&fontSize=52&fontAlignY=38&fontAlign=50&desc=Data%20Scientist%20%7C%20Enterprise%20AI%20%26%20Agentic%20Systems%20Engineer&descAlignY=58&descAlign=50&descSize=20&animation=fadeIn" width="100%" />
 
-  <!-- Hero Section -->
-  <section class="min-h-screen flex items-center justify-center pt-20 px-6">
-    <div class="max-w-4xl text-center space-y-6">
-      <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-semibold bg-cyan-500/10 text-cyan-400 border border-cyan-500/20">
-        <span class="w-2 h-2 rounded-full bg-cyan-400 animate-pulse"></span> Available for AI & Data Science Roles
+<!-- ⚡ ANIMATED TYPING SUBHEADER -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Architecting+Mission-Critical+Enterprise+AI+Copilots;Building+Autonomous+Agentic+Workflows+%26+LangGraph;Engineering+Deterministic+Safety+%26+100%25+RBAC+Defense;Bridging+Frontline+Operations+with+Executive+Intelligence" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- 🌐 SOCIAL CONNECT DOCK -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/jasminbabariya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://jasminbabariya04.my.canva.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Jasminbabariya48&label=PROFILE%20VIEWS&color=00F5D4&style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
+### 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jasminbabariya48&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%" />
+</div>
+
+---
+
+### 🚀 Engineering Philosophy & What I Do
+
+```yaml
+identity:
+  name: "Jasmin Babariya"
+  role: "Data Scientist & Enterprise AI Systems Architect"
+  focus: "Autonomous Agentic AI, Predictive Modeling, Safety Governance"
+  core_principles:
+    - "Zero-Hallucination Determinism: Strict Pydantic schemas over blind LLM generation"
+    - "100% RBAC Defense: Multi-tier Maker-Checker authorization in high-stakes industries"
+    - "High-Performance Engineering: Sub-second inference, 6-tier caching, relational auditability"
+```
+
+---
+
+### 🛠️ Interactive Tech Stack & Ecosystem
+
+<div align="center">
+
+<p align="center"><b>Core Languages, AI Agent Frameworks, Data Science & Cloud Stack</b></p>
+
+<!-- 3D Glow Skill Icons -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,pytorch,scikitlearn,pandas,numpy,docker,git,githubactions,linux,bash,postman,vscode&theme=dark&perline=8" />
+</a>
+
+<br/><br/>
+
+| Category | High-Impact Technologies |
+|---|---|
+| **🤖 Agentic AI & LLMs** | `LangGraph` • `LangChain` • `Portkey AI Gateway` • `Groq (LLaMA 3.3 70B)` • `Gemini API` • `Pydantic v2` |
+| **⚡ Backend & Distributed Systems** | `FastAPI` • `Flask` • `PostgreSQL (MassERM)` • `SQLAlchemy 2.0` • `Alembic` • `Redis / Multi-tier Caching` |
+| **📊 Data Science & Machine Learning** | `PyTorch` • `Scikit-Learn` • `Feature Engineering` • `Predictive Regression` • `NLP (Sentiment Analysis)` |
+| **🛡️ Testing, Evals & Quality Gates** | `Pytest (180+ Unit & E2E Tests)` • `Deterministic Evals (Tool F1, GCR, Trajectory)` • `GitHub Actions CI` |
+
+</div>
+
+---
+
+### 🌟 Flagship Enterprise Projects
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🛡️ Enterprise Risk Management (ERM) Platform</h3>
+        <img src="https://img.shields.io/badge/Architecture-FastAPI_+_Flask_+_PostgreSQL-00F5D4?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI_Copilot-Autonomous_LangGraph-8A2BE2?style=flat-square" />
       </div>
-      <h1 class="text-5xl md:text-7xl font-extrabold tracking-tight text-white leading-tight">
-        Building Intelligent, <br>
-        <span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 glow-cyan">Deterministic AI Systems</span>
-      </h1>
-      <p class="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto">
-        Data Scientist & Machine Learning Engineer specializing in Agentic Workflows, Enterprise Governance, and Predictive Modeling for industrial applications.
-      </p>
-      <div class="flex justify-center gap-4 pt-4">
-        <a href="#projects" class="px-6 py-3 bg-cyan-500 text-black font-semibold rounded-lg hover:bg-cyan-400 transition shadow-lg shadow-cyan-500/20">
-          View Flagship Work
+      <br/>
+      Industrial plant risk intelligence ecosystem for refineries and petrochemical units. Replaces spreadsheet chaos with real-time risk calculations and an embedded AI Copilot.
+      <br/><br/>
+      <ul>
+        <li><b>5-Step AI Conversational Wizard:</b> Natural language hazard logging & 5×5 inherent score math.</li>
+        <li><b>Stateful Recovery:</b> Database checkpointing resumes workflows across network drops or shift changes.</li>
+        <li><b>Maker-Checker Enforcement:</b> 100% RBAC defense pass rate across 4 governance stages.</li>
+        <li><b>Quantifiable ROI:</b> Slashes assessment cycle from 21 days to &lt; 48 hours.</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/Jasminbabariya48/Enterprise-Risk-Management-ERM-Platform">
+          <img src="https://img.shields.io/badge/Explore_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="https://github.com/Jasminbabariya48" target="_blank" class="px-6 py-3 glass rounded-lg hover:bg-gray-800 transition flex items-center gap-2">
-          <i class="fab fa-github"></i> GitHub Profile
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🌾 Precision Crop Yield Prediction Model</h3>
+        <img src="https://img.shields.io/badge/Domain-Predictive_Machine_Learning-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Scikit_Learn_+_Pandas-3776AB?style=flat-square" />
+      </div>
+      <br/>
+      Supervised machine learning framework forecasting regional harvest yields across Gujarat agricultural districts with multi-variable environmental telemetry.
+      <br/><br/>
+      <ul>
+        <li><b>Feature Engineering:</b> Integrated rainfall indices, temperature telemetry, and soil NPK values.</li>
+        <li><b>Model Benchmarking:</b> Comparative evaluation of Random Forest, XGBoost, and Ridge Regressors.</li>
+        <li><b>Decision Support:</b> Delivers actionable yield estimates to regional commodity supply chains.</li>
+      </ul>
+      <br/><br/>
+      <div align="center">
+        <a href="https://github.com/Jasminbabariya48/cotton-yield-prediction-gujarat">
+          <img src="https://img.shields.io/badge/Explore_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
-    </div>
-  </section>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>📊 NLP Sentiment Analysis & Review Intelligence</h3>
+        <img src="https://img.shields.io/badge/Focus-NLP_%26_Consumer_Behavior-9C27B0?style=flat-square" />
+      </div>
+      <br/>
+      Automated sentiment intelligence pipeline processing thousands of unstructured e-commerce reviews to identify product defect clusters and brand perception.
+      <br/><br/>
+      <ul>
+        <li><b>Text Processing:</b> Tokenization, lemmatization, TF-IDF vectorization, and sentiment polarity scoring.</li>
+        <li><b>Interactive Dashboards:</b> Visualized aspect-based feedback for quality engineering teams.</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/Jasminbabariya48">
+          <img src="https://img.shields.io/badge/Explore_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🧪 Autonomous Agent Evaluation Framework (Evals)</h3>
+        <img src="https://img.shields.io/badge/CI_Gate-Deterministic_Safety-00E676?style=flat-square" />
+      </div>
+      <br/>
+      4-tier automated evaluation benchmark for production AI agents with strict quality gates:
+      <br/><br/>
+      <ul>
+        <li><b>90 Test Vectors:</b> Benchmarking Tool Calling, Intent Routing, Trajectories, and RBAC.</li>
+        <li><b>Deterministic Graders:</b> Tool F1, Step Efficiency ($\frac{\text{Optimal}}{\text{Actual}}$), Loop Detection.</li>
+        <li><b>Non-Negotiable Gate:</b> 100% RBAC defense rate required to pass CI.</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/Jasminbabariya48/Enterprise-Risk-Management-ERM-Platform/tree/main/ERM_Copilot/evals">
+          <img src="https://img.shields.io/badge/Explore_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-  <!-- Key Metrics / Stats -->
-  <section class="max-w-6xl mx-auto px-6 py-12">
-    <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-      <div class="glass p-6 rounded-2xl text-center">
-        <div class="text-3xl font-extrabold text-cyan-400">180+</div>
-        <div class="text-xs text-gray-400 uppercase tracking-wider mt-1">Passing Unit & E2E Tests</div>
-      </div>
-      <div class="glass p-6 rounded-2xl text-center">
-        <div class="text-3xl font-extrabold text-blue-400">100%</div>
-        <div class="text-xs text-gray-400 uppercase tracking-wider mt-1">RBAC Security Defense</div>
-      </div>
-      <div class="glass p-6 rounded-2xl text-center">
-        <div class="text-3xl font-extrabold text-teal-400">&lt; 48h</div>
-        <div class="text-xs text-gray-400 uppercase tracking-wider mt-1">Risk Triage Cycle Time</div>
-      </div>
-      <div class="glass p-6 rounded-2xl text-center">
-        <div class="text-3xl font-extrabold text-indigo-400">90+</div>
-        <div class="text-xs text-gray-400 uppercase tracking-wider mt-1">Benchmark Eval Vectors</div>
-      </div>
-    </div>
-  </section>
+---
 
-  <!-- Projects Section -->
-  <section id="projects" class="max-w-6xl mx-auto px-6 py-20">
-    <div class="mb-12">
-      <h2 class="text-3xl font-bold text-white">Flagship Projects</h2>
-      <p class="text-gray-400 mt-2">Enterprise-grade AI solutions and predictive modeling systems.</p>
-    </div>
-    
-    <div class="grid md:grid-cols-2 gap-8">
-      <!-- Project 1 -->
-      <div class="glass p-8 rounded-2xl hover:border-cyan-500/40 transition flex flex-col justify-between">
-        <div>
-          <div class="flex items-center justify-between mb-4">
-            <span class="text-xs font-semibold px-2.5 py-1 rounded bg-cyan-500/10 text-cyan-400 border border-cyan-500/20">Enterprise AI</span>
-            <a href="https://github.com/Jasminbabariya48/Enterprise-Risk-Management-ERM-Platform" class="text-gray-400 hover:text-white"><i class="fas fa-external-link-alt"></i></a>
-          </div>
-          <h3 class="text-xl font-bold text-white mb-2">Enterprise Risk Management (ERM) Platform</h3>
-          <p class="text-sm text-gray-400 leading-relaxed">
-            Industrial plant risk intelligence platform featuring an autonomous AI Copilot, 5x5 dynamic risk scoring matrix, multi-stage Maker-Checker approvals, and state machine checkpoint recovery.
-          </p>
-        </div>
-        <div class="flex flex-wrap gap-2 mt-6 pt-6 border-t border-gray-800 text-xs text-cyan-300 font-mono">
-          <span>FastAPI</span> • <span>PostgreSQL</span> • <span>LangGraph</span> • <span>Groq</span> • <span>Pytest</span>
-        </div>
-      </div>
+### 📊 Real-Time GitHub Telemetry & Velocity
 
-      <!-- Project 2 -->
-      <div class="glass p-8 rounded-2xl hover:border-cyan-500/40 transition flex flex-col justify-between">
-        <div>
-          <div class="flex items-center justify-between mb-4">
-            <span class="text-xs font-semibold px-2.5 py-1 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">Machine Learning</span>
-            <a href="https://github.com/Jasminbabariya48/cotton-yield-prediction-gujarat" class="text-gray-400 hover:text-white"><i class="fas fa-external-link-alt"></i></a>
-          </div>
-          <h3 class="text-xl font-bold text-white mb-2">Predictive Agricultural Yield Model</h3>
-          <p class="text-sm text-gray-400 leading-relaxed">
-            Supervised machine learning framework forecasting crop yields across Gujarat districts using weather telemetry, rainfall data, and soil nutrient indicators.
-          </p>
-        </div>
-        <div class="flex flex-wrap gap-2 mt-6 pt-6 border-t border-gray-800 text-xs text-emerald-300 font-mono">
-          <span>Python</span> • <span>Scikit-Learn</span> • <span>Pandas</span> • <span>Regression</span>
-        </div>
-      </div>
-    </div>
-  </section>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jasminbabariya48&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&icon_color=00F5D4&text_color=A9B1D6&bg_color=0D1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasminbabariya48&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=A9B1D6&bg_color=0D1117" width="49%" />
+</div>
 
-  <!-- Footer -->
-  <footer class="glass border-t border-gray-800 py-8 text-center text-sm text-gray-500">
-    <p>© 2026 Jasmin Babariya • Built with Tailwind CSS & Hosted on GitHub Pages</p>
-  </footer>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasminbabariya48&theme=tokyonight&hide_border=true&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&background=0D1117" width="98%" />
+</div>
 
-</body>
-</html>
+---
+
+<!-- 🌊 DYNAMIC GRADIENT FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,40,100&height=120&section=footer" width="100%" />
+  <sub>Designed with precision by Jasmin Babariya • Enterprise AI & Data Science</sub>
+</div>
