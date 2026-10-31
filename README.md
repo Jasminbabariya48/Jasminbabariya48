@@ -5,7 +5,7 @@
 
 <!-- ⚡ ANIMATED TYPING SUBHEADER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Architecting+Mission-Critical+Enterprise+AI+Copilots;Building+Autonomous+Agentic+Workflows+%26+LangGraph;Engineering+Deterministic+Safety+%26+100%25+RBAC+Defense;Bridging+Frontline+Operations+with+Executive+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Architecting+Mission-Critical+Enterprise+AI+Copilots;Building+Autonomous+Agentic+Workflows+%26+LangGraph;Engineering+Deterministic+Safety+%26+100%25+RBAC+Defense;High-Throughput+LLM+Document+Extraction+Pipelines" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Live_Portfolio-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:jasminbabariya04@gmail.com">
     <img src="https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -45,9 +45,9 @@
 identity:
   name: "Jasmin Babariya"
   role: "Data Scientist & Enterprise AI Systems Architect"
-  focus: "Autonomous Agentic AI, Predictive Modeling, Safety Governance"
+  focus: "Autonomous Agentic AI, Multimodal Document Extraction, Safety Governance"
   core_principles:
-    - "Zero-Hallucination Determinism: Strict Pydantic schemas over blind LLM generation"
+    - "Zero-Hallucination Determinism: Strict Pydantic schemas over unconstrained LLM generation"
     - "100% RBAC Defense: Multi-tier Maker-Checker authorization in high-stakes industries"
     - "High-Performance Engineering: Sub-second inference, 6-tier caching, relational auditability"
 ```
@@ -71,7 +71,7 @@ identity:
 |---|---|
 | **🤖 Agentic AI & LLMs** | `LangGraph` • `LangChain` • `Portkey AI Gateway` • `Groq (LLaMA 3.3 70B)` • `Gemini API` • `Pydantic v2` |
 | **⚡ Backend & Distributed Systems** | `FastAPI` • `Flask` • `PostgreSQL (MassERM)` • `SQLAlchemy 2.0` • `Alembic` • `Redis / Multi-tier Caching` |
-| **📊 Data Science & Machine Learning** | `PyTorch` • `Scikit-Learn` • `Feature Engineering` • `Predictive Regression` • `NLP (Sentiment Analysis)` |
+| **📊 Data Science & Machine Learning** | `PyTorch` • `Scikit-Learn` • `Feature Engineering` • `Multimodal Vision OCR` • `NLP (Sentiment Analysis)` |
 | **🛡️ Testing, Evals & Quality Gates** | `Pytest (180+ Unit & E2E Tests)` • `Deterministic Evals (Tool F1, GCR, Trajectory)` • `GitHub Actions CI` |
 
 </div>
@@ -105,45 +105,27 @@ identity:
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🌾 Precision Crop Yield Prediction Model</h3>
-        <img src="https://img.shields.io/badge/Domain-Predictive_Machine_Learning-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Scikit_Learn_+_Pandas-3776AB?style=flat-square" />
+        <h3>📄 LLM-Based Document Extraction Pipeline</h3>
+        <img src="https://img.shields.io/badge/AI_Domain-Multimodal_Extraction_+_OCR-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Validation-Pydantic_v2_+_Instructor-00F5D4?style=flat-square" />
       </div>
       <br/>
-      Supervised machine learning framework forecasting regional harvest yields across Gujarat agricultural districts with multi-variable environmental telemetry.
+      End-to-end intelligent document processing (IDP) pipeline converting complex, semi-structured PDFs, invoices, and technical forms into strictly validated relational JSON schemas.
       <br/><br/>
       <ul>
-        <li><b>Feature Engineering:</b> Integrated rainfall indices, temperature telemetry, and soil NPK values.</li>
-        <li><b>Model Benchmarking:</b> Comparative evaluation of Random Forest, XGBoost, and Ridge Regressors.</li>
-        <li><b>Decision Support:</b> Delivers actionable yield estimates to regional commodity supply chains.</li>
+        <li><b>Layout-Aware Extraction:</b> Blends multimodal OCR with spatial boundary reasoning to preserve table structures.</li>
+        <li><b>Deterministic Schema Enforcement:</b> Enforces strict Pydantic v2 schemas to eliminate extraction hallucinations.</li>
+        <li><b>Validation Guardrails:</b> Automated cross-verification of mathematical totals and coordinate grounding.</li>
+        <li><b>High-Throughput API:</b> Containerized async FastAPI microservice designed for batch and real-time processing.</li>
       </ul>
-      <br/><br/>
       <div align="center">
-        <a href="https://github.com/Jasminbabariya48/cotton-yield-prediction-gujarat">
+        <a href="https://github.com/Jasminbabariya48/LLM-Based-Document-Extraction-Pipeline">
           <img src="https://img.shields.io/badge/Explore_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>📊 NLP Sentiment Analysis & Review Intelligence</h3>
-        <img src="https://img.shields.io/badge/Focus-NLP_%26_Consumer_Behavior-9C27B0?style=flat-square" />
-      </div>
-      <br/>
-      Automated sentiment intelligence pipeline processing thousands of unstructured e-commerce reviews to identify product defect clusters and brand perception.
-      <br/><br/>
-      <ul>
-        <li><b>Text Processing:</b> Tokenization, lemmatization, TF-IDF vectorization, and sentiment polarity scoring.</li>
-        <li><b>Interactive Dashboards:</b> Visualized aspect-based feedback for quality engineering teams.</li>
-      </ul>
-      <div align="center">
-        <a href="https://github.com/Jasminbabariya48">
-          <img src="https://img.shields.io/badge/Explore_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
     <td width="50%" valign="top">
       <div align="center">
         <h3>🧪 Autonomous Agent Evaluation Framework (Evals)</h3>
@@ -159,6 +141,24 @@ identity:
       </ul>
       <div align="center">
         <a href="https://github.com/Jasminbabariya48/Enterprise-Risk-Management-ERM-Platform/tree/main/ERM_Copilot/evals">
+          <img src="https://img.shields.io/badge/Explore_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>📊 NLP Sentiment Analysis & Review Intelligence</h3>
+        <img src="https://img.shields.io/badge/Focus-NLP_%26_Consumer_Behavior-9C27B0?style=flat-square" />
+      </div>
+      <br/>
+      Automated sentiment intelligence pipeline processing thousands of unstructured e-commerce reviews to identify product defect clusters and brand perception.
+      <br/><br/>
+      <ul>
+        <li><b>Text Processing:</b> Tokenization, lemmatization, TF-IDF vectorization, and sentiment polarity scoring.</li>
+        <li><b>Interactive Dashboards:</b> Visualized aspect-based feedback for quality engineering teams.</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/Jasminbabariya48">
           <img src="https://img.shields.io/badge/Explore_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
